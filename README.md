@@ -39,5 +39,8 @@ https://marketplace.visualstudio.com/items?itemName=RohanVashisht.bend
 - A web application to create custom themes using lite-xl: https://rohanvashisht1234.github.io/makelitexltheme/
 
 ## My own projects:
-- A rust based backend framework named [Rohanasan](https://github.com/rohanasan/rohanasan-rs) which can handle 52142.29 request within 1 second.
+- A rust based backend framework named [Rohanasan](https://github.com/rohanasan/rohanasan-rs) which can handle 52142.29 request within 1 second, was initially made in C then moved on to rust.
 - A rust, python, Vlang based alternative for html named [rohanasantml](https://github.com/rohanasan/rohanasantml)
+- A lot of other project which you can view [here](https://github.com/RohanVashisht1234?tab=repositories).
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanvashisht1234&langs_count=8)
