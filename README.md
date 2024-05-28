@@ -29,7 +29,11 @@ https://marketplace.visualstudio.com/items?itemName=RohanVashisht.bend
 - Syntax highlighting support for Bend programming language.
 - Autosave on init.lua bug fix.
 - Lsp contribution for Clojure programming language.
+- litexp theme
+- mobilephone theme
+- hackers-den theme
 
 ### Lite-xl website contributions:
-- A website made using nextjs and tailwind https://litexlthemes.vercel.app/
-- 
+- A website to browse various themes made using nextjs and tailwind https://litexlthemes.vercel.app/
+- A website to browse plugins made in pure preact https://litexlplugins.vercel.app/
+- A web application to create custom themes using lite-xl: https://rohanvashisht1234.github.io/makelitexltheme/
