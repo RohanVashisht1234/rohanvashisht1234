@@ -6,6 +6,8 @@
 
 ## Here are some of my contributions in different open source projects:
 
+- Founder of [Zigistry](https://zigistry.dev): A registry for all Zig-lang packages and programs. [https://zigistry.dev](https://zigistry.dev)
+
 - A complete vscode extension for the Bend programming language which went trending at #2 on vscode market place:
 https://marketplace.visualstudio.com/items?itemName=RohanVashisht.bend
 
