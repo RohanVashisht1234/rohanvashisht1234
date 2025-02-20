@@ -1,58 +1,120 @@
-## 👋 Hello there!
-
-<img align="left" width=50 src="https://avatars.githubusercontent.com/u/81112205?v=4"/>
-
-# I am Rohan Vashisht, an 18 year old boy, who loves to code.
-
-## Here are some of my contributions in different open source projects:
-
-- Founder of [Zigistry](https://zigistry.dev): A registry for all Zig-lang packages and programs. [https://zigistry.dev](https://zigistry.dev)
-
-- A complete vscode extension for the Bend programming language which went trending at #2 on vscode market place:
-https://marketplace.visualstudio.com/items?itemName=RohanVashisht.bend
-
 <div align="center">
-<img width=500 src="./trending-extension.png"/>
+  
+# 👋 Hello World, I'm Rohan Vashisht!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RohanVashisht1234)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanVashisht1234)
+
+<img src="https://avatars.githubusercontent.com/u/81112205?v=4" width="150" height="150" style="border-radius: 50%;" />
+
+### 💫 19-year-old Developer | Open Source Enthusiast | Creator
+
+---
 </div>
 
-## Contributions to carbon programming language:
-- I have made a vscode extension for the carbon programming language named carbonizer https://github.com/carbon-language/carbon-lang/pull/3953
-- I have also contributed a vscode extension to the Carbon programming language's main repo in this pull request: https://github.com/carbon-language/carbon-lang/pull/3953
+## 🚀 Notable Projects & Contributions
 
+### 🌟 Founder of [Zigistry](https://zigistry.dev)
+> A comprehensive registry for Zig-lang packages and programs, serving the Zig community with a centralized package management solution.
 
-## Lite-xl IDE contributions:
-- Syntax highlighting support for Buzz programming language.
-- Syntax highlighting support for Bazel programming language.
-- Syntax highlighting support for Carbon programming language.
-- Syntax highlighting support for Brainfuck programming language.
-- Syntax highlighting support for Clojure programming language.
-- Syntax highlighting support for Fortran programming language.
-- Syntax highlighting support for Swift programming language.
-- Syntax highlighting support for Bend programming language.
-- Autosave on init.lua bug fix.
-- Lsp contribution for Clojure programming language.
-- litexp theme
-- mobilephone theme
-- hackers-den theme
+### 🎯 VSCode Extensions
+- **[Bend Language Support](https://marketplace.visualstudio.com/items?itemName=RohanVashisht.bend)**
+  - Trending #2 on VSCode Marketplace
+  - Provides complete language support for Bend programming language
+  
+<div align="center">
+  <img width="600" src="./trending-extension.png" alt="Trending Extension Screenshot"/>
+</div>
 
-### Lite-xl website contributions:
-- A website to browse various themes made using nextjs and tailwind https://litexlthemes.vercel.app/
-- A website to browse plugins made in pure preact https://litexlplugins.vercel.app/
-- A web application to create custom themes using lite-xl: https://rohanvashisht1234.github.io/makelitexltheme/
+### 🔥 Carbon Language Contributions
+- Developed [Carbonizer](https://github.com/carbon-language/carbon-lang/pull/3953) - VSCode extension for Carbon programming language
+- Official contributor to Carbon Language's main repository
 
-## My own projects:
-- [Zigistry](https://github.com/zigistry/zigistry) A registry for all Zig-lang packages and programs.
-- A rust based backend framework named [Rohanasan](https://github.com/rohanasan/rohanasan-rs) which can handle 52142.29 request within 1 second, was initially made in C then moved on to rust.
-- A rust, python, Vlang based alternative for html named [rohanasantml](https://github.com/rohanasan/rohanasantml)
-- A lot of other project which you can view [here](https://github.com/RohanVashisht1234?tab=repositories).
+## 🛠️ Lite-xl IDE Contributions
 
+### 🎨 Syntax Highlighting Support
+- **Programming Languages:**
+  - Buzz | Bazel | Carbon | Brainfuck
+  - Clojure | Fortran | Swift | Bend
 
-## Technologies I am familiar with
+### 🎯 Themes & Improvements
+- Created custom themes:
+  - `litexp`
+  - `mobilephone`
+  - `hackers-den`
+- Fixed autosave functionality in `init.lua`
+- Implemented LSP support for Clojure
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Vscode-Extensions](https://img.shields.io/badge/Vscode-Extensions-FCC624?style=for-the-badge&logo=visualstudiocode&logoColor=blue)  ![Zig](https://img.shields.io/badge/zig-%2300599C.svg?style=for-the-badge&logo=zig&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NextJS](https://img.shields.io/badge/NextJS-FCC624?style=for-the-badge&logo=nextjs&logoColor=black) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+### 🌐 Web Platforms
+1. [Lite-xl Themes Gallery](https://litexlthemes.vercel.app/)
+   - Built with Next.js and Tailwind CSS
+2. [Lite-xl Plugins Hub](https://litexlplugins.vercel.app/)
+   - Developed using Preact
+3. [Theme Creator](https://rohanvashisht1234.github.io/makelitexltheme/)
+   - Interactive theme customization tool
 
-## 📈 GitHub Stats
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanVashisht1234&show_icons=true&theme=radical)
+## 🏗️ Personal Projects
 
-## 🏆 GitHub Trophies
-![Rohan's GitHub trophies](https://github-profile-trophy.vercel.app/?username=RohanVashisht1234&theme=radical)
+### Major Projects
+1. **[Zigistry](https://github.com/zigistry/zigistry)**
+   - Comprehensive Zig package registry
+
+2. **[Rohanasan](https://github.com/rohanasan/rohanasan-rs)**
+   - High-performance backend framework
+   - Handles 52,142 requests/second
+   - Migrated from C to Rust
+
+3. **[RohanasanTML](https://github.com/rohanasan/rohanasantml)**
+   - HTML alternative
+   - Built with Rust, Python, and V
+
+> 📂 [Explore More Projects](https://github.com/RohanVashisht1234?tab=repositories)
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Zig](https://img.shields.io/badge/zig-%2300599C.svg?style=for-the-badge&logo=zig&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frameworks & Tools
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Infrastructure
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanVashisht1234&show_icons=true&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RohanVashisht1234&theme=radical&row=1)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💌 Let's Connect!
+
+*"Algorithm is all about logic, programming language are tools that help you to implement it."* - Rohan Vashisht
+
+</div>
