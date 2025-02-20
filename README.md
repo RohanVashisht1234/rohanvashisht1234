@@ -115,6 +115,6 @@
 
 ### 💌 Let's Connect!
 
-*"Algorithm is all about logic, programming language are tools that help you to implement it."* - Rohan Vashisht
+*"Algorithm is all about logic, programming languages are tools that help you to implement it."* - Rohan Vashisht
 
 </div>
