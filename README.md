@@ -102,8 +102,6 @@
 
 <div align="center">
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanVashisht1234&show_icons=true&theme=radical)
-
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RohanVashisht1234&theme=radical&row=1)
 
