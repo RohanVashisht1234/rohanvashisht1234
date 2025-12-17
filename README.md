@@ -7,7 +7,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/81112205?v=4" width="150" height="150" style="border-radius: 50%;" />
 
-### 💫 19-year-old Developer | Open Source Enthusiast | Creator
+### 💫 20-year-old Developer | Open Source Enthusiast | Creator
 
 ---
 </div>
