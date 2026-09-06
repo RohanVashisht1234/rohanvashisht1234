@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="240" viewBox="0 0 854 240">
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M0 0V160Q213 200 427 170T854 195V0Z" fill="url(#linear)" opacity=".4">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      values="
+        M0 0V160Q213 200 427 170T854 195V0Z;
+        M0 0V185Q213 200 427 180T854 170V0Z;
+        M0 0V205Q213 175 427 205T854 170V0Z;
+        M0 0V160Q213 200 427 170T854 195V0Z"/>
+  </path>
+
+  <path d="M0 0V175Q213 220 427 190T854 200V0Z" fill="url(#linear)" opacity=".4">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      begin="-10s"
+      values="
+        M0 0V175Q213 220 427 190T854 200V0Z;
+        M0 0V190Q213 160 427 160T854 180V0Z;
+        M0 0V185Q213 165 427 190T854 205V0Z;
+        M0 0V175Q213 220 427 190T854 200V0Z"/>
+  </path>
+
+  <g fill="#fff" text-anchor="middle"
+     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="427" y="88" font-size="52" font-weight="700">Rohan Vashisht</text>
+    <text x="427" y="135" font-size="19" font-weight="500">
+      Systems Software Engineer · Open Source Contributor
+    </text>
+  </g>
+</svg>
